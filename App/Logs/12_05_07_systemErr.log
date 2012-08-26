@@ -1,0 +1,2321 @@
+[ 12-05-07 09:43:41 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/logo.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:43:41 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:43:41 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/version_left_pic.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:43:41 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/vision_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:43:41 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/logo.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:43:41 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:43:41 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/vision_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:43:41 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/version_left_pic.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:43:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/version_left_pic.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:43:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/logo.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:43:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/vision_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:43:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:43:45 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/vision_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:43:45 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/version_left_pic.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:43:45 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/logo.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:43:45 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:43:58 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/logo.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:43:59 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/logo.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:43:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:44:26 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/logo.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:44:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:44:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:44:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:44:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:44:26 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/logo.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:44:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:44:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:44:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:44:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:44:27 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/logo.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:44:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:44:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:44:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:44:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:44:27 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/logo.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:44:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:44:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:44:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:44:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:45:06 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/logo.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:45:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:45:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:45:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:45:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:45:06 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/logo.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:45:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:45:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:45:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:45:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:45:07 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/logo.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:45:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:45:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:45:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:45:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 09:45:08 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/logo.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 09:45:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 09:45:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 09:45:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 09:45:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:04 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/jaccar_news_top.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:04 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/jaccar_news_01.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:04 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/news_detail_btn.png
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:04 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/jaccar_news_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:04 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/jaccar_news_02.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:04 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/date_drop.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:04 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/page_prev.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:04 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/jaccar_news_03.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:04 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/page_next.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:04 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:04 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/jaccar_news_top.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:04 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/jaccar_news_01.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/jaccar_news_top.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/jaccar_news_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/jaccar_news_01.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/date_drop.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/jaccar_news_02.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/jaccar_news_03.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/news_detail_btn.png
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/page_prev.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/page_next.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/jaccar_news_top.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/jaccar_news_01.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/jaccar_news_02.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/jaccar_news_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/news_detail_btn.png
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/date_drop.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/jaccar_news_03.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/page_prev.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/page_next.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 10:52:13 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 10:52:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:40 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:40 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_img_04.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:40 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_img_01.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:40 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_img_05.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:40 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/people_2.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:40 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_img_03.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:40 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/people_6.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:40 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/people_3.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:40 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/people_4.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:40 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/people_5.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:40 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:41 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:41 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/people_2.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:41 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_img_01.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:41 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_img_03.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:41 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_img_05.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:41 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_img_04.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:01:57 ]
+
+错误信息：[ App Public story_042_detail ]非法操作story_042_detail
+错误页面：/jaccar/jaccar/index.php/Public/story_042_detail.html
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(story_042_detail, Array)
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->story_042_detail()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:01:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:02:03 ]
+
+错误信息：[ App Public story_09_detail ]非法操作story_09_detail
+错误页面：/jaccar/jaccar/index.php/Public/story_09_detail.html
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(story_09_detail, Array)
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->story_09_detail()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:02:05 ]
+
+错误信息：[ App Public story_032_detail ]非法操作story_032_detail
+错误页面：/jaccar/jaccar/index.php/Public/story_032_detail.html
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(story_032_detail, Array)
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->story_032_detail()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:02:16 ]
+
+错误信息：[ App Public story_032_detail ]非法操作story_032_detail
+错误页面：/jaccar/jaccar/index.php/Public/story_032_detail.html
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(story_032_detail, Array)
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->story_032_detail()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:02:19 ]
+
+错误信息：[ App Public story_042_detail ]非法操作story_042_detail
+错误页面：/jaccar/jaccar/index.php/Public/story_042_detail.html
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(story_042_detail, Array)
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->story_042_detail()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:02:23 ]
+
+错误信息：[ App Public story_09_detail ]非法操作story_09_detail
+错误页面：/jaccar/jaccar/index.php/Public/story_09_detail.html
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(story_09_detail, Array)
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->story_09_detail()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:02:25 ]
+
+错误信息：[ App Public story_09_detail ]非法操作story_09_detail
+错误页面：/jaccar/jaccar/index.php/Public/story_09_detail.html
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(story_09_detail, Array)
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->story_09_detail()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:02:27 ]
+
+错误信息：[ App Public story_032_detail ]非法操作story_032_detail
+错误页面：/jaccar/jaccar/index.php/Public/story_032_detail.html
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(story_032_detail, Array)
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->story_032_detail()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:02:30 ]
+
+错误信息：[ App Public story_042_detail ]非法操作story_042_detail
+错误页面：/jaccar/jaccar/index.php/Public/story_042_detail.html
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(story_042_detail, Array)
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->story_042_detail()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:02:32 ]
+
+错误信息：[ App Public story_052_detail ]非法操作story_052_detail
+错误页面：/jaccar/jaccar/index.php/Public/story_052_detail.html
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(story_052_detail, Array)
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->story_052_detail()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:02:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:03:56 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:03:56 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_img_052.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:03:56 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:03:56 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:03:56 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_img_052.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:03:56 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:03:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:04:01 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:04:01 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:04:01 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_14_img.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:04:01 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:04:01 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_14_img.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:04:01 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:04:05 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_14_img.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:04:05 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:04:05 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:04:05 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:04:05 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/story_14_img.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:04:05 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:04:39 ]
+
+错误信息：[ App Public jaccar ]非法操作jaccar
+错误页面：/jaccar/jaccar/index.php/Public//jaccar/App/Tpl/default/Public/images/tark1.png
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(jaccar, Array)
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->jaccar()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:04:40 ]
+
+错误信息：[ App Public jaccar ]非法操作jaccar
+错误页面：/jaccar/jaccar/index.php/Public//jaccar/App/Tpl/default/Public/images/tark1.png
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(jaccar, Array)
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->jaccar()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:04:42 ]
+
+错误信息：[ App Public jaccar ]非法操作jaccar
+错误页面：/jaccar/jaccar/index.php/Public//jaccar/App/Tpl/default/Public/images/tark1.png
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(jaccar, Array)
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->jaccar()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:04:42 ]
+
+错误信息：[ App Public jaccar ]非法操作jaccar
+错误页面：/jaccar/jaccar/index.php/Public//jaccar/App/Tpl/default/Public/images/tark1.png
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(jaccar, Array)
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->jaccar()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:04:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:49 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy_img_01.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:49 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy_img_03.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:49 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:49 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy_img_02.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:49 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:49 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/menu.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:49 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy_img_01.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:49 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy_img_03.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:52 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/menu.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:52 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy_img_01.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:52 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy_img_03.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:52 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:52 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy_img_02.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:52 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:53 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy_img_02.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:53 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy_img_03.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:53 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy_img_01.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:53 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:07:53 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:07:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:08:10 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/menu.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:08:18 ]
+
+错误信息：[ App Public flash ]非法操作flash
+错误页面：/jaccar/jaccar/index.php/Public/flash/Jaccar JDC5_web.flv
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(flash, Array)
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->flash()
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:08:22 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/menu.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:08:23 ]
+
+错误信息：[ App Public strategy_vedio ]非法操作strategy_vedio
+错误页面：/jaccar/jaccar/index.php/Public/strategy_vedio.html
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(strategy_vedio, Array)
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->strategy_vedio()
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:08:27 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/menu.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:08:50 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/menu.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:08:58 ]
+
+错误信息：[ App Public strategy_vedio ]非法操作strategy_vedio
+错误页面：/jaccar/jaccar/index.php/Public/strategy_vedio.html
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(strategy_vedio, Array)
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->strategy_vedio()
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:08:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:09:00 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/menu.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:09:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:09:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:09:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:09:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:10:00 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/segmentA_img.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:10:00 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/segmentB_img.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:10:00 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:10:00 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:10:00 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/segmentC_img.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:10:00 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/segmentB_img.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:10:00 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/segmentA_img.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:10:01 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:10:01 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:10:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:24 ]
+
+错误信息：[ App Public jaccar_news_detail ]非法操作jaccar_news_detail
+错误页面：/jaccar/jaccar/index.php/Public/jaccar_news_detail.html
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(jaccar_news_detail, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->jaccar_news_detail()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:34 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/menu.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public styles ]非法操作styles
+错误页面：/jaccar/jaccar/index.php/Public/styles/layout.css
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(styles, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->styles()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public styles ]非法操作styles
+错误页面：/jaccar/jaccar/index.php/Public/styles/base.css
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(styles, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->styles()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public styles ]非法操作styles
+错误页面：/jaccar/jaccar/index.php/Public/styles/themes.css
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(styles, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->styles()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/jquery.min.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public styles ]非法操作styles
+错误页面：/jaccar/jaccar/index.php/Public/styles/jqueryui.css
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(styles, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->styles()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/jquery.ui.datepicker.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/select_box.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/menu.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/jquery-ui.min.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/logo.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/affiliates_news_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/date_drop.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/press_news_demo_01.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/news_detail_btn.png
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/page_prev.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/page_next.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public styles ]非法操作styles
+错误页面：/jaccar/jaccar/index.php/Public/styles/jqueryui.css
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(styles, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->styles()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/home_btn.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/search_btn.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/ftp_btn.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/press.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/map.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/contact.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:38 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/kit_btn.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:43 ]
+
+错误信息：[ App Public styles ]非法操作styles
+错误页面：/jaccar/jaccar/index.php/Public/styles/base.css
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(styles, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->styles()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:43 ]
+
+错误信息：[ App Public styles ]非法操作styles
+错误页面：/jaccar/jaccar/index.php/Public/styles/themes.css
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(styles, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->styles()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:43 ]
+
+错误信息：[ App Public styles ]非法操作styles
+错误页面：/jaccar/jaccar/index.php/Public/styles/layout.css
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(styles, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->styles()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:43 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/jquery.min.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/select_box.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/jquery-ui.min.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public styles ]非法操作styles
+错误页面：/jaccar/jaccar/index.php/Public/styles/jqueryui.css
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(styles, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->styles()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/menu.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/logo.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/jquery.ui.datepicker.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/affiliates_news_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/date_drop.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/press_news_demo_01.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/news_detail_btn.png
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/page_prev.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/page_next.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/search_btn.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public styles ]非法操作styles
+错误页面：/jaccar/jaccar/index.php/Public/styles/jqueryui.css
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(styles, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->styles()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/home_btn.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/ftp_btn.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/strategy.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/press.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/map.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/contact.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/kit_btn.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:11:44 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/logo.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:11:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:12:23 ]
+
+错误信息：[ App Public scripts ]非法操作scripts
+错误页面：/jaccar/jaccar/index.php/Public/scripts/menu.js
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:12:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(scripts, Array)
+[12-05-07 11:12:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->scripts()
+[12-05-07 11:12:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:12:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:13:05 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/points_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:13:05 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/point_view_demo_img_01.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:13:05 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/page_next.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:13:05 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/page_prev.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:13:05 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/points_demo_img2.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:13:05 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:13:05 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/point_view_demo_img_01.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:13:05 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/page_next.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:13:05 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/page_prev.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:13:05 ]
+
+错误信息：[ App Public images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Public/images/points_title.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->images()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:13:32 ]
+
+错误信息：[ App Public index ]非法操作index
+错误页面：/jaccar/jaccar/index.php/Public/index.html
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(index, Array)
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->index()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:13:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-07 11:18:01 ]
+
+错误信息：[ App Public press_release ]非法操作press_release
+错误页面：/jaccar/jaccar/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-05-07 11:18:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(press_release, Array)
+[12-05-07 11:18:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) PublicAction->press_release()
+[12-05-07 11:18:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-07 11:18:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+

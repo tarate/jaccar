@@ -1,0 +1,45 @@
+[ 12-07-01 06:27:21 ]
+
+错误信息：[ App public story ]无法加载模块public
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-07-01 06:27:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-07-01 06:27:07] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-07-01 12:22:06 ]
+
+错误信息：[ App Public presskit ]无法加载模块Public
+错误页面：/index.php/Public/presskit.html
+错误类型：ThinkException
+错误跟踪：
+[12-07-01 12:22:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-07-01 12:22:07] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-07-01 12:42:16 ]
+
+错误信息：[ App public ftp ]无法加载模块public
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-07-01 12:42:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-07-01 12:42:07] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-07-01 14:00:13 ]
+
+错误信息：[ App public ftp ]无法加载模块public
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-07-01 14:00:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-07-01 14:00:07] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-07-01 19:53:56 ]
+
+错误信息：[ App public story ]无法加载模块public
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-07-01 19:53:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-07-01 19:53:07] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+

@@ -1,0 +1,170 @@
+[ 12-06-30 10:10:08 ]
+
+错误信息：[ App Public UploadFile ]模板不存在[./App/Tpl/default/Public/UploadFile.html]
+错误页面：/index.php/Public/UploadFile
+错误类型：ThinkException
+错误跟踪：
+[12-06-30 10:10:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (10) View->fetch(, , text/html, , 1)
+[12-06-30 10:10:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (8) View->display(, , text/html, )
+[12-06-30 10:10:06] /home/jaccar/public_html/jaccar.net/App/Lib/Action/PublicAction.class.php (206) Action->display()
+[12-06-30 10:10:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->UploadFile()
+[12-06-30 10:10:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-30 10:10:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-30 11:35:40 ]
+
+错误信息：[ App Public UploadFile ]PressKitModel模型不存在或者没有定义
+错误页面：/index.php/Public/UploadFile
+错误类型：ThinkException
+错误跟踪：
+[12-06-30 11:35:06] /home/jaccar/public_html/jaccar.net/App/Lib/Action/PublicAction.class.php (205) D(PressKit)
+[12-06-30 11:35:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->UploadFile()
+[12-06-30 11:35:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-30 11:35:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-30 12:46:22 ]
+
+错误信息：[ App Public presskit ]presskitModel模型不存在或者没有定义
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-30 12:46:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) D(presskit)
+[12-06-30 12:46:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->getTableName()
+[12-06-30 12:46:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->_read(, *, 1, , , , , , , , )
+[12-06-30 12:46:06] /home/jaccar/public_html/jaccar.net/App/Lib/Action/PublicAction.class.php (225) Model->findAll()
+[12-06-30 12:46:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->presskit()
+[12-06-30 12:46:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-30 12:46:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-30 12:47:23 ]
+
+错误信息：[ App Public presskit ]presskitModel模型不存在或者没有定义
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) D(presskit)
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->getTableName()
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->_read(, *, 1, , , , , , , , )
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Lib/Action/PublicAction.class.php (225) Model->findAll()
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->presskit()
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-30 12:47:28 ]
+
+错误信息：[ App Public presskit ]presskitModel模型不存在或者没有定义
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) D(presskit)
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->getTableName()
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->_read(, *, 1, , , , , , , , )
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Lib/Action/PublicAction.class.php (225) Model->findAll()
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->presskit()
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-30 12:47:30 ]
+
+错误信息：[ App Public presskit ]presskitModel模型不存在或者没有定义
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) D(presskit)
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->getTableName()
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->_read(, *, 1, , , , , , , , )
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Lib/Action/PublicAction.class.php (225) Model->findAll()
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->presskit()
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-30 12:47:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-30 12:48:17 ]
+
+错误信息：[ App Public presskit ]presskitModel模型不存在或者没有定义
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-30 12:48:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) D(presskit)
+[12-06-30 12:48:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->getTableName()
+[12-06-30 12:48:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->_read(, *, 1, , , , , , , , )
+[12-06-30 12:48:06] /home/jaccar/public_html/jaccar.net/App/Lib/Action/PublicAction.class.php (225) Model->findAll()
+[12-06-30 12:48:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->presskit()
+[12-06-30 12:48:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-30 12:48:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-30 13:43:25 ]
+
+错误信息：[ App public legals ]无法加载模块public
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-30 13:43:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-30 13:43:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-30 14:17:37 ]
+
+错误信息：[ App Public presskit ]PressKitModel模型不存在或者没有定义
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-30 14:17:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) D(PressKit)
+[12-06-30 14:17:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->getTableName()
+[12-06-30 14:17:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->_read(1=1, *, 1, , , , , , , , )
+[12-06-30 14:17:06] /home/jaccar/public_html/jaccar.net/App/Lib/Action/PublicAction.class.php (225) Model->findAll(1=1)
+[12-06-30 14:17:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->presskit()
+[12-06-30 14:17:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-30 14:17:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-30 14:18:35 ]
+
+错误信息：[ App Public presskit ]PressKitModel模型不存在或者没有定义
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-30 14:18:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) D(PressKit)
+[12-06-30 14:18:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->getTableName()
+[12-06-30 14:18:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->_read(1=1, *, 1, , , , , , , , )
+[12-06-30 14:18:06] /home/jaccar/public_html/jaccar.net/App/Lib/Action/PublicAction.class.php (225) Model->findAll(1=1)
+[12-06-30 14:18:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->presskit()
+[12-06-30 14:18:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-30 14:18:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-30 14:18:38 ]
+
+错误信息：[ App Public presskit ]PressKitModel模型不存在或者没有定义
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-30 14:18:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) D(PressKit)
+[12-06-30 14:18:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->getTableName()
+[12-06-30 14:18:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->_read(1=1, *, 1, , , , , , , , )
+[12-06-30 14:18:06] /home/jaccar/public_html/jaccar.net/App/Lib/Action/PublicAction.class.php (225) Model->findAll(1=1)
+[12-06-30 14:18:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->presskit()
+[12-06-30 14:18:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-30 14:18:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-30 15:16:37 ]
+
+错误信息：[ App Public DelPressKit ]模板不存在[./App/Tpl/default/Public/DelPressKit.html]
+错误页面：/index.php/Public/DelPressKit/id/5
+错误类型：ThinkException
+错误跟踪：
+[12-06-30 15:16:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (10) View->fetch(, , text/html, , 1)
+[12-06-30 15:16:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (8) View->display(, , text/html, )
+[12-06-30 15:16:06] /home/jaccar/public_html/jaccar.net/App/Lib/Action/PublicAction.class.php (226) Action->display()
+[12-06-30 15:16:06] /home/jaccar/public_html/jaccar.net/App/Lib/Action/PublicAction.class.php (235) PublicAction->presskit()
+[12-06-30 15:16:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->DelPressKit()
+[12-06-30 15:16:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-30 15:16:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-30 15:47:29 ]
+
+错误信息：[ App Public UploadFile ]PressKitModel模型不存在或者没有定义
+错误页面：/index.php/Public/UploadFile
+错误类型：ThinkException
+错误跟踪：
+[12-06-30 15:47:06] /home/jaccar/public_html/jaccar.net/App/Lib/Action/PublicAction.class.php (210) D(PressKit)
+[12-06-30 15:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->UploadFile()
+[12-06-30 15:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-30 15:47:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+

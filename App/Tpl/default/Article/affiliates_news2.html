@@ -1,0 +1,71 @@
+<include file="Public:header" />
+						 <!--right s-->
+						 	<div class="right">
+							<!--content s-->
+							    <div class="strategy_title"><img src="../Public/images/affiliates_news_title.jpg" /></div>
+								<!-- search year s-->
+									<div id="search_year_control3">
+										<div id="search_year_select3">
+											<ul> 
+											    <li>Search by Company</li>
+												<include file="Public:companylist" />
+											</ul> 
+										</div> 
+									</div>
+								<!-- search year e-->  
+								<div class="clearboth"></div>
+								<div class="datelist">
+									<ul>
+									 	<li class="selectdateli" onclick="SelectBox.changeSelectBox('search_year_select3');" style="width:164px;"> 
+											<p id="search_year_select3_label" style="float:left; width:150px;padding-top:1px;">BOURBON</p><p style="float:left; line-height:12px; padding-top:5px;margin:0px;  line-height:0px; font-size:0px;"><img src="../Public/images/date_drop.jpg" /> </p>
+										</li> 
+									</ul>
+								</div>
+								<div class="lastest_news_content"  style="margin-top:0px;">  
+								  <volist name="list" id="vo">
+								  	<!--onecase s-->
+									<div class="newslist">
+											<div class="newsleftpic"><img src="__ROOT__/Attachments/article/{$vo.attachpath}/{$vo.attachment2}" /></div>
+											<div class="newsrightcontent">
+												<div class="datetime">{$vo.postdate|date="d/m/Y",###}</div>
+												<div class="title" title="{$vo.subject}">{$vo.subject|msubstr=0,80}</div>
+												<div class="descript">{$vo.message}</div>
+											</div>
+											<div class="detailbtn"><a href="__APP__?s=/Article/affiliates_news_detail/id/{$vo.id}.html"><img src="../Public/images/news_detail_btn.png" /></a></div>
+										</div>
+									<!--onecase e-->
+									<div class="clearboth"></div>
+								  </volist>
+								</div>
+							<!--content e-->
+							<!--pager s-->
+							    <div class="clearboth"></div>
+								<div id="pager">
+									<ul>
+										{$page}
+									</ul>
+								</div>
+							<!--pager e-->
+							 
+							<!-- search year s-->
+								<div id="search_year_control" style="bottom:42px;">
+									<div id="search_year_select">
+										<ul>
+											<li>Search by Year</li>
+											<include file="Public:yearlist" />
+										</ul> 
+									</div>
+									<div id="search_year_select_label" onclick="SelectBox.changeSelectBox('search_year_select');" >Search by Year</div>
+								</div>
+							<!-- search year e-->  
+							</div>
+							<div class="right_bottom"><img src="../Public/images/right_bottom.jpg" /></div>	
+						 <!--right e--> 
+  <script> 
+    SelectBox.autoSelect(document,"search_year_select","selectoption"); 
+	SelectBox.autoSelect(document,"search_year_select3","selectoption"); 
+		//$("#datecontrol").datepicker(); 
+	//jQuery("#search_date_select_label").datepicker(); 
+	$("#search_year_select3_label").html($("#company_{$_REQUEST.cid}").text())
+  </script>
+   <include file="Public:footer" />

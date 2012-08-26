@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>FreeThinkCms</title>
+<script type="text/javascript" src="/Admin/Tpl/default/Public/images/common.js"></script>
+<link rel="stylesheet" href="/Admin/Tpl/default/Public/images/login.css" type="text/css" media="all" />
+<script type="text/javascript">
+function $(id) {
+	return document.getElementById(id);
+}
+function fleshVerify(){
+//重载验证码
+var timenow = new Date().getTime();
+document.getElementById('verifyImg').src= '/admin.php/Public/verify/'+timenow;
+}
+</script>
+</head>
+<body>
+<div class="main">
+  <div class="login">
+    <form action="/admin.php/Public/checkLogin" method="post" >
+      <input type="hidden" name="dopost" value="login">
+      <div class="inputbox">
+        <dl>
+          <dt>Username：</dt>
+          <dd>
+            <input type="text" name="username" id="username" size="20" onfocus="this.style.borderColor='#239fe3'" onblur="this.style.borderColor='#dcdcdc'" />
+          </dd>
+        </dl>
+        <dl>
+          <dt>Password：</dt>
+          <dd>
+            <input type="password" name="password" id="password" size="20" onfocus="this.style.borderColor='#239fe3'" onblur="this.style.borderColor='#dcdcdc'"/>
+          </dd>
+        </dl>
+		
+		<dl style="display:none;">
+          <dt>Code：</dt>
+          <dd>
+            <input type="text" name="seccode" id="seccode" size="11" onfocus="this.style.borderColor='#239fe3'" onblur="this.style.borderColor='#dcdcdc'" />
+          <A HREF="javascript:fleshVerify()"><IMG SRC="/admin.php/Public/verify/" name="verifyImg" BORDER="0" align="absmiddle" id="verifyImg" title="please point picture to replace this!"></a>          </dd>
+        </dl>  
+        <dl style="padding-top:10px;">
+          <dt>&nbsp;</dt>
+          <dd>
+            <input name="submit" type="submit" value="" class="input" />
+          </dd>
+        </dl>
+      </div>
+      <div class="butbox">
+        <dl>
+          <dt></dt> 
+        </dl>
+      </div>
+      <div style="clear:both"></div>
+    <?php if(C("TOKEN_ON")):?><input type="hidden" name="<?php echo C("TOKEN_NAME");?>" value="<?php echo Session::get(C("TOKEN_NAME")); ?>"/><?php endif;?></form>
+  </div>
+</div>
+<div class="copyright"></div>
+
+</body>
+</html>

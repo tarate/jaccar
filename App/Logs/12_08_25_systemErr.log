@@ -1,0 +1,11 @@
+[ 12-08-25 23:03:52 ]
+
+错误信息：[ App Public index ]非法操作index
+错误页面：/index.php/Public/index.html
+错误类型：ThinkException
+错误跟踪：
+[12-08-25 23:03:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) Action->__call(index, Array)
+[12-08-25 23:03:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->index()
+[12-08-25 23:03:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-08-25 23:03:08] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+

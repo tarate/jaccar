@@ -1,0 +1,22 @@
+[ 12-07-06 03:48:50 ]
+
+错误信息：[ App Article press_release_ ]非法操作press_release_
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-07-06 03:48:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) Action->__call(press_release_, Array)
+[12-07-06 03:48:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) ArticleAction->press_release_()
+[12-07-06 03:48:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-07-06 03:48:07] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-07-06 17:16:53 ]
+
+错误信息：[ App Public index ]非法操作index
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-07-06 17:16:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) Action->__call(index, Array)
+[12-07-06 17:16:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->index()
+[12-07-06 17:16:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-07-06 17:16:07] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+

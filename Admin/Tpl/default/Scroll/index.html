@@ -1,0 +1,26 @@
+<tagLib name="html,cx" />
+<include file="Public:header" />
+<div class="bodyTitle">
+	<div class="bodyTitleLeft"></div>
+  <div class="bodyTitleText">index</div>
+</div> 
+          <table class="datalist fixwidth" > <form name="form1" method="post" action="__URL__/submit">
+            <tr> 
+              <th>Title</th>
+              <th>Website</th> 
+              <th>Operate</th>
+            </tr> <present name="list">
+            <volist name="list" id="vo">
+            <tr>  
+              <td>{$vo.subject}</td>
+              <td>{$vo.url}</td> 
+              <td><a href="__URL__/edit/id/{$vo.id}"><img src="../Public/images/edit.gif" alt="update" align="absmiddle" /></a></td>
+            </tr>
+            </volist>  <else />
+			  <tr><td colspan="6" align="center">Nothing</td>
+			  </tr>
+			</present>
+         </form> </table>
+         
+<br>
+<include file="Public:footer" />

@@ -1,0 +1,54 @@
+<include file="Public:header" />
+						 <!--right s-->
+						 	<div class="right">
+								<div class="jaccar_top_btn"><a href="__APP__?s=/Article/jaccar_news.html"><img src="../Public/images/jaccar_news_top.jpg" /></a></div>
+							<!--content s-->
+							    <div class="strategy_title"><img src="../Public/images/jaccar_news_title.jpg" /><a href="__APP__?s=/Article/rss.html" target="_blank"><img src="../Public/images/rss.gif" /></a></div>
+								 
+								<div class="lastest_news_content" >  
+								  	 <volist name="list" id="vo">
+								  	<!--onecase s-->
+									<div class="newslist">
+											<div class="newsleftpic"><img src="__ROOT__/Attachments/article/{$vo.attachpath}/{$vo.attachment2}" /></div>
+											<div class="newsrightcontent">
+												<div class="datetime">{$vo.postdate|date="d/m/Y",###}</div>
+												<div class="title" title="{$vo.subject}">{$vo.subject|msubstr=0,80}</div>
+												<div class="descript">{$vo.message}</div>
+											</div>
+											<div class="detailbtn"><a href="__APP__?s=/Article/jaccar_news_detail/id/{$vo.id}.html"><img src="../Public/images/news_detail_btn.png" /></a></div>
+										</div>
+									<!--onecase e-->
+									<div class="clearboth"></div>
+								  </volist>
+								</div>
+							<!--content e-->
+							<!--pager s-->
+							    <div class="clearboth"></div>
+								<div id="pager">
+									<ul>
+										{$page}
+									</ul>
+								</div>
+							<!--pager e-->  
+							<!-- search year s-->
+								<div id="search_year_control">
+									<div id="search_year_select">
+											<ul>
+												<li>Search by Year</li>
+												<include file="Public:yearlist2" />
+											</ul> 
+										</div>
+										<div id="search_year_select_label" onclick="SelectBox.changeSelectBox('search_year_select');" >Search by Year</div>
+								</div>
+							<!-- search year e--> 
+							</div>
+							<div class="right_bottom"><img src="../Public/images/right_bottom.jpg" /></div>	
+					 
+  <script>
+  	//SelectBox.autoSelect(document,"search_company_select","selectoption"); 
+    SelectBox.autoSelect(document,"search_year_select","selectoption"); 
+	SelectBox.autoSelect(document,"search_year_select2","selectoption"); 
+		//$("#datecontrol").datepicker(); 
+	//jQuery("#search_date_select_label").datepicker();
+  </script>
+   <include file="Public:footer" />

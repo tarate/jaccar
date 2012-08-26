@@ -1,0 +1,54 @@
+[ 12-03-21 10:31:24 ]
+
+错误信息：[ Admin Public checkLogin ]mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file
+错误页面：/101/101/admin.php/Public/checkLogin
+错误类型：ThinkException
+错误跟踪：
+[12-03-21 10:31:03] E:\xampp\htdocs\101\ThinkPHP\Lib\Think\Db\Db.class.php (267) DbMysql->connect()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\ThinkPHP\Lib\Think\Db\Driver\DbMysql.class.php (114) Db->initConnect()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\ThinkPHP\Lib\Think\Db\Driver\DbMysql.class.php (355) DbMysql->_query(SHOW COLUMNS FROM thinkcms_member)
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (9) DbMysql->getFields(thinkcms_member)
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (9) Model->flush()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (9) Model->_checkTableInfo()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (3) Model->__construct()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Lib\Action\PublicAction.class.php (33) D(Member)
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (7) PublicAction->checkLogin()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (7) App->exec()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\admin.php (18) App->run()
+
+[ 12-03-21 10:31:35 ]
+
+错误信息：[ Admin Public checkLogin ]mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file
+错误页面：/101/101/admin.php/Public/checkLogin
+错误类型：ThinkException
+错误跟踪：
+[12-03-21 10:31:03] E:\xampp\htdocs\101\ThinkPHP\Lib\Think\Db\Db.class.php (267) DbMysql->connect()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\ThinkPHP\Lib\Think\Db\Driver\DbMysql.class.php (114) Db->initConnect()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\ThinkPHP\Lib\Think\Db\Driver\DbMysql.class.php (355) DbMysql->_query(SHOW COLUMNS FROM thinkcms_member)
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (9) DbMysql->getFields(thinkcms_member)
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (9) Model->flush()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (9) Model->_checkTableInfo()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (3) Model->__construct()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Lib\Action\PublicAction.class.php (33) D(Member)
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (7) PublicAction->checkLogin()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (7) App->exec()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\admin.php (18) App->run()
+
+[ 12-03-21 10:31:42 ]
+
+错误信息：[ Admin Public checkLogin ]mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file
+错误页面：/101/101/admin.php/Public/checkLogin
+错误类型：ThinkException
+错误跟踪：
+[12-03-21 10:31:03] E:\xampp\htdocs\101\ThinkPHP\Lib\Think\Db\Db.class.php (267) DbMysql->connect()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\ThinkPHP\Lib\Think\Db\Driver\DbMysql.class.php (114) Db->initConnect()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\ThinkPHP\Lib\Think\Db\Driver\DbMysql.class.php (355) DbMysql->_query(SHOW COLUMNS FROM thinkcms_member)
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (9) DbMysql->getFields(thinkcms_member)
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (9) Model->flush()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (9) Model->_checkTableInfo()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (3) Model->__construct()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Lib\Action\PublicAction.class.php (33) D(Member)
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (7) PublicAction->checkLogin()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\Admin\Temp\~runtime.php (7) App->exec()
+[12-03-21 10:31:03] E:\xampp\htdocs\101\admin.php (18) App->run()
+

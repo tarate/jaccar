@@ -1,0 +1,24 @@
+<include file="Public:header"/>
+<!--left-->
+<include file="Public:left"/>
+<!--left-->
+         <!--right-->
+		  <div class="right">
+		   <div class="news_list">
+			    <div><img src="../Public/images/img03.jpg"/></div>
+				 <div class="list">
+				  <volist name="list" id="vo">
+				   <ul>
+				    <li class="title_li"><a href="__APP__/Article/{$vo.id}.html" title="{$vo.subject}">{$vo.subject|msubstr=0,50}</a></li>
+					<li><a href="__APP__/Article/{$vo.id}.html">{$vo.postdate|date="Y-m-d",###}</a></li>
+				   </ul>
+				  </volist>
+				 </div>
+				 <div class="clearboth"></div>
+				 <div class="page">
+				  {$page}
+				 </div>
+			 </div>
+		  </div>
+<!--right-->
+<include file="Public:footer"/>

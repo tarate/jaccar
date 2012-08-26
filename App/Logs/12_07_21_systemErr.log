@@ -1,0 +1,54 @@
+[ 12-07-21 03:57:49 ]
+
+错误信息：[ App article press_release_detail ]无法加载模块article
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-07-21 03:57:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-07-21 03:57:07] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-07-21 03:57:50 ]
+
+错误信息：[ App public legals ]无法加载模块public
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-07-21 03:57:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-07-21 03:57:07] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-07-21 03:57:50 ]
+
+错误信息：[ App public story ]无法加载模块public
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-07-21 03:57:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-07-21 03:57:07] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-07-21 06:42:46 ]
+
+错误信息：[ App public key ]无法加载模块public
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-07-21 06:42:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-07-21 06:42:07] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-07-21 18:12:29 ]
+
+错误信息：[ App article press_release_detail ]无法加载模块article
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-07-21 18:12:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-07-21 18:12:07] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-07-21 21:39:22 ]
+
+错误信息：[ App article press_release_detail ]无法加载模块article
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-07-21 21:39:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-07-21 21:39:07] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+

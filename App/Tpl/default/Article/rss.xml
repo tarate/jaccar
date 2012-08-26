@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title><![CDATA[JACCAR]]></title>
+<image>
+	<title>JACCAR NEWS</title>
+	<link>http://web1.jaccar.typhon.net/index.php</link>
+	<url>http://web1.jaccar.typhon.net/App/Tpl/default/Public/images/logo2.jpg</url>
+</image>
+<description><![CDATA[JACCAR NEWS]]></description>
+<link>http://web1.jaccar.typhon.net/</link>
+<language>en</language>
+<generator>http://web1.jaccar.typhon.net/</generator>
+<volist name="list" id="vo">
+<item>
+        <title><![CDATA[{$vo.subject}]]></title>
+        <if condition="$vo.cid eq 167 ">
+        	<link><![CDATA[http://web1.jaccar.typhon.net/index.php?s=/Article/jaccar_news_detail/id/{$vo.id}.html]]></link>
+        <elseif condition="$vo.cid eq 166"/>
+        	<link><![CDATA[http://web1.jaccar.typhon.net/index.php?s=/Article/press_release_detail/id/{$vo.id}.html]]></link>
+        <else/>
+        	<link><![CDATA[http://web1.jaccar.typhon.net/index.php?s=/Article/affiliates_news_detail/id/{$vo.id}.html]]></link>
+		</if>
+        <description><![CDATA[{$vo.message}]]></description>
+        <pubDate>{$vo.postdate|date="D, d M Y H:i:s O",###}</pubDate>
+        <author><![CDATA[jaccar]]></author>
+        <if condition="$vo.cid  eq 167 ">
+       		<guid><![CDATA[http://web1.jaccar.typhon.net/index.php?s=/Article/jaccar_news_detail/id/{$vo.id}.html]]></guid>
+        <elseif condition="$vo.cid eq 166"/>
+       		<guid><![CDATA[http://web1.jaccar.typhon.net/index.php?s=/Article/press_release_detail/id/{$vo.id}.html]]></guid>
+        <else/>
+       		<guid><![CDATA[http://web1.jaccar.typhon.net/index.php?s=/Article/affiliates_news_detail/id/{$vo.id}.html]]></guid>
+        </if>
+</item>
+</volist>
+</channel>
+</rss>
+

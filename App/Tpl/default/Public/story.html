@@ -1,0 +1,42 @@
+<include file="Public:header" />
+						 <!--right s-->
+						 	<div class="right">
+							<div class="strategy_title"><img src="../Public/images/story_title.jpg" /></div>
+							<!--content s-->
+								<div class="story_content" style="overflow:hidden; position:relative; height:491px; width:600px;"> 
+								 <div id="storylist" style="width:1090px; position:absolute;">
+									  <!-- story s -->
+									  {$listhtml}
+									  <!-- story e -->
+								 </div>
+								</div>
+							<!--content e-->
+							</div>
+							<div class="right_bottom"><img src="../Public/images/right_bottom.jpg" /></div>	
+						 <!--right e--> 
+ <script>
+ 	/*$(document).ready(
+		function(){
+				$(".story_content").setScroll( //scrollContent为滚动层的ID
+				{img:'../Public/images/scroll_bg.jpg',width:9},//背景图及其宽度
+				{img:'../Public/images/story_scroll.jpg',height:0},//up image
+				{img:'../Public/images/scroll_right.jpg',height:0},//down image
+				{img:'../Public/images/scroll_left.jpg',height:9}//bar image
+				);}
+			); */
+	$(".story_content").hScrollPane({
+		mover:"#storylist", //指定container对象下的哪个元素需要滚动位置 | 必传项;
+		showArrow:true, //指定是否显示左右箭头，默认不显示 | 可选项;
+		//moverW:function(){return $(".press").width();}(), //传入水平滚动对象的长度值,不传入的话默认直接获取mover的宽度值 | 可选项;
+		 handleMinWidth:55,//指定handle的最小宽度,要固定handle的宽度请在css中设定handle的width属性（如 width:28px!important;），不传入则不设定最小宽度 | 可选项;
+		//dragable:true, //指定是否要支持拖动效果，默认可以拖动 | 可选项;
+		//easing:true, //滚动是否需要滑动效果,默认有滑动效果 | 可选项;
+		handleCssAlter:"draghandlealter", //指定拖动鼠标时滚动条的样式，不传入该参数则没有变化效果 | 可选项;
+		mousewheel:{bind:true,moveLength:500} //mousewheel: bind->'true',绑定mousewheel事件; ->'false',不绑定mousewheel事件；moveLength是指定鼠标滚动一次移动的距离,默认值		    	         ：{bind:true,moveLength:300} | 可选项;
+});
+
+	//jQuery("#storylist a").click(function(){
+		//window.location.href="story_detail.html";
+	//});
+ </script> 
+ <include file="Public:footer" />

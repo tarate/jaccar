@@ -1,0 +1,86 @@
+<include file="Public:header" />
+						 <!--right s-->
+						 	<div class="right">
+							<!--content s-->
+							    <div class="strategy_title"><img src="../Public/images/lastest_news_title.jpg" /></div>
+								<!-- search year s-->
+									<div id="search_year_control2">
+										<div id="search_year_select2">
+											<ul> 
+												<include file="Public:yearlist" />
+											</ul> 
+										</div> 
+									</div>
+								<!-- search year e-->  
+								<div class="clearboth"></div>
+								<div class="datelist">
+									<ul>
+									 	<li class="selectdateli" onclick="SelectBox.changeSelectBox('search_year_select2');"> 
+										<span id="search_year_select2_label" >2008</span>&nbsp;&nbsp;<img src="../Public/images/date_drop.jpg" /> 
+										</li>
+										<li><a href="__APP__?s=/Article/lastest_news2/year/{$_REQUEST.year}/month/01.html" id="month_01">JAN</a></li>
+										<li><a href="__APP__?s=/Article/lastest_news2/year/{$_REQUEST.year}/month/02.html" id="month_02">FEB</a></li>
+										<li><a href="__APP__?s=/Article/lastest_news2/year/{$_REQUEST.year}/month/03.html" id="month_03">MAR</a></li>
+										<li><a href="__APP__?s=/Article/lastest_news2/year/{$_REQUEST.year}/month/04.html" id="month_04">APR</a></li>
+										<li><a href="__APP__?s=/Article/lastest_news2/year/{$_REQUEST.year}/month/05.html" id="month_05">MAY</a></li>
+										<li><a href="__APP__?s=/Article/lastest_news2/year/{$_REQUEST.year}/month/06.html" id="month_06">JUN</a></li>
+										<li><a href="__APP__?s=/Article/lastest_news2/year/{$_REQUEST.year}/month/07.html" id="month_07">JUL</a></li>
+										<li><a href="__APP__?s=/Article/lastest_news2/year/{$_REQUEST.year}/month/08.html" id="month_08">AUG</a></li>
+										<li><a href="__APP__?s=/Article/lastest_news2/year/{$_REQUEST.year}/month/09.html" id="month_09">SEP</a></li>
+										<li><a href="__APP__?s=/Article/lastest_news2/year/{$_REQUEST.year}/month/10.html" id="month_10">OCT</a></li>
+										<li><a href="__APP__?s=/Article/lastest_news2/year/{$_REQUEST.year}/month/11.html" id="month_11">NOV</a></li>
+										<li><a href="__APP__?s=/Article/lastest_news2/year/{$_REQUEST.year}/month/12.html" id="month_12">DEC</a></li>
+									</ul>
+								</div>
+								<div class="lastest_news_content" style="margin-top:0px;">  
+								 	 <volist name="list" id="vo">
+									  	<!--onecase s-->
+										<div class="newslist">
+												<div class="newsleftpic"><img src="__ROOT__/Attachments/article/{$vo.attachpath}/{$vo.attachment2}" /></div>
+												<div class="newsrightcontent">
+													<div class="datetime">{$vo.postdate|date="d/m/Y",###}</div>
+													<div class="title" title="{$vo.subject}">{$vo.subject|msubstr=0,80}</div>
+													<div class="descript">{$vo.message}</div>
+												</div>
+												<div class="detailbtn"><a href="__APP__?s=/Article/news_detail/id/{$vo.id}/cid/{$vo.cid}.html"><img src="../Public/images/news_detail_btn.png" /></a></div>
+											</div>
+										<!--onecase e-->
+										<div class="clearboth"></div>
+								  </volist>
+								</div>
+							<!--content e-->
+							<!--pager s-->
+							    <div class="clearboth"></div>
+								<div id="pager">
+									<ul>
+										{$page}
+									</ul>
+								</div>
+							<!--pager e-->  
+							<div class="clearboth"></div>
+							<!-- search company control s-->
+								<div id="search_company_control" style=" bottom:22px;">
+										<div id="search_company_select">
+										<ul>
+											<li>Search by Company</li>
+											<include file="Public:companylist" />
+										</ul>
+										
+									</div> 
+									<div  id="search_company_select_label" onclick="SelectBox.changeSelectBox('search_company_select');">Search by Company</div>
+								</div>
+							<!-- search company control e-->
+							 
+							</div>
+							<div class="right_bottom"><img src="../Public/images/right_bottom.jpg" /></div>	
+						 <!--right e--> 
+  <script>
+  	SelectBox.autoSelect(document,"search_company_select","selectoption");  
+	SelectBox.autoSelect(document,"search_year_select2","selectoption"); 
+	//	$("#datecontrol").datepicker(); 
+	//jQuery("#search_date_select_label").datepicker();
+	$("#search_year_select2_label").html("{$_REQUEST.year}")
+	jQuery("#month_{$_REQUEST.month}").css("font-weight","bold");
+	jQuery("#month_{$_REQUEST.month}").css("color","#000");
+  </script>
+  <include file="Public:footer" />

@@ -1,0 +1,50 @@
+<tagLib name="html,cx" />
+<include file="Public:header" />
+<div class="bodyTitle">
+<div class="bodyTitleLeft"></div>
+<div class="bodyTitleText">详细</div>
+</div>
+<br>
+<style>
+table td{border:1px #999999 solid;line-height:20px;background:#ffffff;border-collapse: collapse;}
+</style>
+
+<table width="100%">
+	<form method="post" name="form1" action="__URL__/edits">
+
+	<tr>
+		<td>姓名</td>
+		<td>{$vo.username}
+	</tr>
+	<tr>
+		<td>性 别</td>
+		<td> <if
+			condition="$vo['sex'] eq 1 ">男</if> <if condition="$vo['sex'] eq 2 ">女</if>
+		</td>
+	</tr>
+	
+
+	<tr>
+		<td>电 话</td>
+		<td>{$vo.tel} </td>
+	</tr>
+	<tr>
+		<td>座机号</td>
+		<td>{$vo.fax}</td>
+	</tr>
+<tr>
+		<td>邮箱</td>
+		<td>{$vo.email}</td>
+	</tr>
+	<tr>
+		<td>到店的时间</td>
+		<td>{$vo.qq} </td>
+	</tr>
+	
+	 
+
+	</form>
+</table>
+
+<br>
+<include file="Public:footer" />

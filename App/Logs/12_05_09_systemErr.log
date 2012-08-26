@@ -1,0 +1,195 @@
+[ 12-05-09 14:39:40 ]
+
+错误信息：[ App Article affiliates_news ]DategoryModel模型不存在或者没有定义
+错误页面：/jaccar/jaccar/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-05-09 14:39:05] D:\xampp\htdocs\project\public\jaccar\App\Lib\Action\ArticleAction.class.php (15) D(Dategory)
+[12-05-09 14:39:05] D:\xampp\htdocs\project\public\jaccar\App\Lib\Action\ArticleAction.class.php (37) ArticleAction->getCompanyList()
+[12-05-09 14:39:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) ArticleAction->affiliates_news()
+[12-05-09 14:39:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-09 14:39:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-09 14:39:59 ]
+
+错误信息：[ App Article affiliates_news ]CatagoryModel模型不存在或者没有定义
+错误页面：/jaccar/jaccar/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-05-09 14:39:05] D:\xampp\htdocs\project\public\jaccar\App\Lib\Action\ArticleAction.class.php (15) D(Catagory)
+[12-05-09 14:39:05] D:\xampp\htdocs\project\public\jaccar\App\Lib\Action\ArticleAction.class.php (37) ArticleAction->getCompanyList()
+[12-05-09 14:39:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) ArticleAction->affiliates_news()
+[12-05-09 14:39:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-09 14:39:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-09 14:45:26 ]
+
+错误信息：[ App Article affilicate_news2 ]非法操作affilicate_news2
+错误页面：/jaccar/jaccar/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-05-09 14:45:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(affilicate_news2, Array)
+[12-05-09 14:45:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) ArticleAction->affilicate_news2()
+[12-05-09 14:45:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-09 14:45:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-09 15:00:41 ]
+
+错误信息：[ App Article affiliates_news_detail ]非法操作affiliates_news_detail
+错误页面：/jaccar/jaccar/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-05-09 15:00:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(affiliates_news_detail, Array)
+[12-05-09 15:00:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) ArticleAction->affiliates_news_detail()
+[12-05-09 15:00:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-09 15:00:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-09 16:18:27 ]
+
+错误信息：[ App Article press_realse_detail ]非法操作press_realse_detail
+错误页面：/jaccar/jaccar/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-05-09 16:18:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(press_realse_detail, Array)
+[12-05-09 16:18:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) ArticleAction->press_realse_detail()
+[12-05-09 16:18:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-09 16:18:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-09 16:36:19 ]
+
+错误信息：[ App Article jaccar_new ]非法操作jaccar_new
+错误页面：/jaccar/jaccar/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-05-09 16:36:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(jaccar_new, Array)
+[12-05-09 16:36:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) ArticleAction->jaccar_new()
+[12-05-09 16:36:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-09 16:36:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-09 16:51:23 ]
+
+错误信息：[ App Article news_detail ]模板不存在[./App/Tpl/default/Article/news_detail.html]
+错误页面：/jaccar/jaccar/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-05-09 16:51:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (10) View->fetch(, , text/html, , 1)
+[12-05-09 16:51:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (8) View->display(, , text/html, )
+[12-05-09 16:51:05] D:\xampp\htdocs\project\public\jaccar\App\Lib\Action\ArticleAction.class.php (142) Action->display()
+[12-05-09 16:51:05] D:\xampp\htdocs\project\public\jaccar\App\Lib\Action\ArticleAction.class.php (122) ArticleAction->jaccar_news_detail()
+[12-05-09 16:51:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) ArticleAction->news_detail()
+[12-05-09 16:51:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-09 16:51:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-09 16:51:40 ]
+
+错误信息：[ App Article news_detail ]模板不存在[./App/Tpl/default/Article/news_detail.html]
+错误页面：/jaccar/jaccar/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-05-09 16:51:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (10) View->fetch(, , text/html, , 1)
+[12-05-09 16:51:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (8) View->display(, , text/html, )
+[12-05-09 16:51:05] D:\xampp\htdocs\project\public\jaccar\App\Lib\Action\ArticleAction.class.php (116) Action->display()
+[12-05-09 16:51:05] D:\xampp\htdocs\project\public\jaccar\App\Lib\Action\ArticleAction.class.php (126) ArticleAction->affiliates_news_detail()
+[12-05-09 16:51:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) ArticleAction->news_detail()
+[12-05-09 16:51:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-09 16:51:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-09 16:53:25 ]
+
+错误信息：[ App Article news_detail ]模板不存在[./App/Tpl/default/Article/news_detail.html]
+错误页面：/jaccar/jaccar/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (10) View->fetch(, , text/html, , 1)
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (8) View->display(, , text/html, )
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Lib\Action\ArticleAction.class.php (116) Action->display()
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Lib\Action\ArticleAction.class.php (127) ArticleAction->affiliates_news_detail()
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) ArticleAction->news_detail()
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-09 16:53:36 ]
+
+错误信息：[ App Article news_detail ]模板不存在[./App/Tpl/default/Article/news_detail.html]
+错误页面：/jaccar/jaccar/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (10) View->fetch(, , text/html, , 1)
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (8) View->display(, , text/html, )
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Lib\Action\ArticleAction.class.php (142) Action->display()
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (8) ArticleAction->jaccar_news_detail()
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Lib\Action\ArticleAction.class.php (126) Action->forward(jaccar_news_detail)
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) ArticleAction->news_detail()
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-09 16:53:38 ]
+
+错误信息：[ App Article news_detail ]模板不存在[./App/Tpl/default/Article/news_detail.html]
+错误页面：/jaccar/jaccar/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (10) View->fetch(, , text/html, , 1)
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (8) View->display(, , text/html, )
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Lib\Action\ArticleAction.class.php (142) Action->display()
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (8) ArticleAction->jaccar_news_detail()
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Lib\Action\ArticleAction.class.php (126) Action->forward(jaccar_news_detail)
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) ArticleAction->news_detail()
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-09 16:53:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-09 16:54:09 ]
+
+错误信息：[ App Article images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Article/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-09 16:54:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-09 16:54:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) ArticleAction->images()
+[12-05-09 16:54:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-09 16:54:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-09 16:54:09 ]
+
+错误信息：[ App Article images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Article/images/news_right_btn02.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-09 16:54:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-09 16:54:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) ArticleAction->images()
+[12-05-09 16:54:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-09 16:54:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-09 16:54:09 ]
+
+错误信息：[ App Article images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Article/images/news_right_btn02.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-09 16:54:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-09 16:54:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) ArticleAction->images()
+[12-05-09 16:54:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-09 16:54:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-09 16:54:09 ]
+
+错误信息：[ App Article images ]非法操作images
+错误页面：/jaccar/jaccar/index.php/Article/images/right_bottom.jpg
+错误类型：ThinkException
+错误跟踪：
+[12-05-09 16:54:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(images, Array)
+[12-05-09 16:54:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) ArticleAction->images()
+[12-05-09 16:54:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-09 16:54:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+
+[ 12-05-09 17:21:42 ]
+
+错误信息：[ App Article jaccar_news2 ]非法操作jaccar_news2
+错误页面：/jaccar/jaccar/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-05-09 17:21:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) Action->__call(jaccar_news2, Array)
+[12-05-09 17:21:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) ArticleAction->jaccar_news2()
+[12-05-09 17:21:05] D:\xampp\htdocs\project\public\jaccar\App\Temp\~runtime.php (7) App->exec()
+[12-05-09 17:21:05] D:\xampp\htdocs\project\public\jaccar\index.php (18) App->run()
+

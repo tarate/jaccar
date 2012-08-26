@@ -1,0 +1,35 @@
+<include file="Public:header"/> 
+						 <!--right s-->
+						 	<div class="right">
+						 	    <if condition="$username neq ''">
+						 		<div class="jaccar_top_btn"><a href="__APP__?s=/Public/upload.html"><img src="../Public/images/presskit_btn2.png" /></a></div>
+						 		</if>
+							<!--content s-->
+							    <div class="strategy_title"><img src="../Public/images/presskit_logo.jpg" /></div>
+								<div class="presskit_content"> 
+								   <volist name="list" id="vo">
+								   		<div class="onetitle">
+											<div class="lefttext">{$vo.title}</div>
+											<div class="rightbtn"><a href="../Public/flash/{$vo.filename}" onclick="presskit(this);"><img src="../Public/images/presskit_btn.png" /></a></div>
+											<if condition="$username neq ''">
+											<div class="rightbtn2"><a href="__URL__/DelPressKit/id/{$vo.id}" onclick="return confirm('Confirm Delete?');"><img src="../Public/images/delete.png" /></a></div>
+											</if>
+											<div class="clearboth"></div>
+									   </div>
+								   </volist>
+								</div>
+							<!--content e-->
+								<div class="clearboth"></div>
+								
+						    <!--pager s-->
+							    <div class="clearboth"></div>
+								<div id="pager">
+									<ul>
+										{$page}
+									</ul>
+								</div>
+							<!--pager e-->  
+							 
+							</div>
+							<div class="right_bottom"><img src="../Public/images/right_bottom.jpg" /></div>	
+<include file="Public:footer"/> 

@@ -1,0 +1,47 @@
+<include file="Public:header" />
+						 <!--right s-->
+						 	<div class="right">
+							<!--content s-->
+							    <div class="strategy_title"><img src="../Public/images/key_title.jpg" /></div>
+								<div class="strategy_content" >
+								    <div class="scroll_key_content" >
+										<img src="../Public/images/tark2.png" width="600" height="1022"    />
+										<!--<div style="margin-top:10px;"><img src="../Public/images/tark2.png" width="600" height="1200" vspace="9"/></div>-->
+									</div>
+								</div>
+								
+									<div class="clearboth">
+									  
+								</div>
+							<!--content e-->
+							</div>
+							<div class="right_bottom"><img src="../Public/images/right_bottom.jpg" /></div>	
+						 <!--right e--> 
+  <script>
+   var oldshow = null;
+  	$("#segmentlist a").each(function(){
+	 $(this).click(function(e){
+	   if(oldshow != null)
+	     oldshow.hide(); 
+	   var x = e.originalEvent.layerX || e.originalEvent.x || 0 ; 
+	   var y = e.originalEvent.layerY || e.originalEvent.y || 0; 
+	   var id=$(this).attr("id");
+	   $("#"+id).css("left",x+"px").css("top",y+"px").show("slow");
+	   oldshow = $("#"+id);
+	 });
+	});
+	
+	var closesegment = function(obj){
+	 $(obj).parent().hide();
+	}
+  </script> 
+  
+	<script> 
+		jQuery(".scroll_key_content").setScroll( 
+				{img:'../Public/images/scroll_bg2.jpg',width:10},//背景图及其宽度
+				{img:'../Public/images/scroll_bg2.jpg',height:0},//up image
+				{img:'../Public/images/scroll_bg2.jpg',height:0},//down image
+				{img:'../Public/images/scroll_la2.png',height:48,width:10}//bar image
+			);   
+	</script>
+<include file="Public:footer" />

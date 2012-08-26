@@ -1,0 +1,99 @@
+[ 11-09-19 15:13:48 ]
+
+错误信息：[ Admin Article adds6 ]Unknown MySQL server host 'bdm-014.hichina.com' (2)
+错误页面：/101/101/admin.php/Article/adds6
+错误类型：ThinkException
+错误跟踪：
+[11-09-19 15:13:09] /data/home/bmu028197/htdocs/101/ThinkPHP/Lib/Think/Db/Db.class.php (267) DbMysql->connect(Unknown MySQL server host 'bdm-014.hichina.com' (2))
+[11-09-19 15:13:09] /data/home/bmu028197/htdocs/101/ThinkPHP/Lib/Think/Db/Driver/DbMysql.class.php (114) Db->initConnect()
+[11-09-19 15:13:09] /data/home/bmu028197/htdocs/101/ThinkPHP/Lib/Think/Db/Driver/DbMysql.class.php (355) DbMysql->_query()
+[11-09-19 15:13:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (9) DbMysql->getFields(SHOW COLUMNS FROM thinkcms_usergroup)
+[11-09-19 15:13:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (9) Model->flush(thinkcms_usergroup)
+[11-09-19 15:13:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (9) Model->_checkTableInfo()
+[11-09-19 15:13:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (3) Model->__construct()
+[11-09-19 15:13:09] /data/home/bmu028197/htdocs/101/Admin/Lib/Action/GlobalAction.class.php (62) D()
+[11-09-19 15:13:09] /data/home/bmu028197/htdocs/101/Admin/Lib/Action/ArticleAction.class.php (17) GlobalAction->_checkSecurity()
+[11-09-19 15:13:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (8) ArticleAction->_initialize(Usergroup)
+[11-09-19 15:13:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (3) Action->__construct(article)
+[11-09-19 15:13:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (7) A()
+[11-09-19 15:13:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (7) App->exec()
+[11-09-19 15:13:09] /data/home/bmu028197/htdocs/101/admin.php (18) App->run()
+
+[ 11-09-19 15:14:45 ]
+
+错误信息：[ Admin Article adds6 ]Unknown MySQL server host 'bdm-014.hichina.com' (2)
+错误页面：/101/101/admin.php/Article/adds6
+错误类型：ThinkException
+错误跟踪：
+[11-09-19 15:14:09] /data/home/bmu028197/htdocs/101/ThinkPHP/Lib/Think/Db/Db.class.php (267) DbMysql->connect(Unknown MySQL server host 'bdm-014.hichina.com' (2))
+[11-09-19 15:14:09] /data/home/bmu028197/htdocs/101/ThinkPHP/Lib/Think/Db/Driver/DbMysql.class.php (114) Db->initConnect()
+[11-09-19 15:14:09] /data/home/bmu028197/htdocs/101/ThinkPHP/Lib/Think/Db/Driver/DbMysql.class.php (355) DbMysql->_query()
+[11-09-19 15:14:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (9) DbMysql->getFields(SHOW COLUMNS FROM thinkcms_usergroup)
+[11-09-19 15:14:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (9) Model->flush(thinkcms_usergroup)
+[11-09-19 15:14:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (9) Model->_checkTableInfo()
+[11-09-19 15:14:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (3) Model->__construct()
+[11-09-19 15:14:09] /data/home/bmu028197/htdocs/101/Admin/Lib/Action/GlobalAction.class.php (62) D()
+[11-09-19 15:14:09] /data/home/bmu028197/htdocs/101/Admin/Lib/Action/ArticleAction.class.php (17) GlobalAction->_checkSecurity()
+[11-09-19 15:14:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (8) ArticleAction->_initialize(Usergroup)
+[11-09-19 15:14:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (3) Action->__construct(article)
+[11-09-19 15:14:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (7) A()
+[11-09-19 15:14:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (7) App->exec()
+[11-09-19 15:14:09] /data/home/bmu028197/htdocs/101/admin.php (18) App->run()
+
+[ 11-09-19 15:15:41 ]
+
+错误信息：[ Admin Article adds6 ]Unknown MySQL server host 'bdm-014.hichina.com' (2)
+错误页面：/101/101/admin.php/Article/adds6
+错误类型：ThinkException
+错误跟踪：
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/ThinkPHP/Lib/Think/Db/Db.class.php (267) DbMysql->connect(Unknown MySQL server host 'bdm-014.hichina.com' (2))
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/ThinkPHP/Lib/Think/Db/Driver/DbMysql.class.php (114) Db->initConnect()
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/ThinkPHP/Lib/Think/Db/Driver/DbMysql.class.php (355) DbMysql->_query()
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (9) DbMysql->getFields(SHOW COLUMNS FROM thinkcms_usergroup)
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (9) Model->flush(thinkcms_usergroup)
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (9) Model->_checkTableInfo()
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (3) Model->__construct()
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/Admin/Lib/Action/GlobalAction.class.php (62) D()
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/Admin/Lib/Action/ArticleAction.class.php (17) GlobalAction->_checkSecurity()
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (8) ArticleAction->_initialize(Usergroup)
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (3) Action->__construct(article)
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (7) A()
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (7) App->exec()
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/admin.php (18) App->run()
+
+[ 11-09-19 15:15:58 ]
+
+错误信息：[ Admin Public checkLogin ]Unknown MySQL server host 'bdm-014.hichina.com' (2)
+错误页面：/101/101/admin.php/Public/checkLogin
+错误类型：ThinkException
+错误跟踪：
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/ThinkPHP/Lib/Think/Db/Db.class.php (267) DbMysql->connect(Unknown MySQL server host 'bdm-014.hichina.com' (2))
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/ThinkPHP/Lib/Think/Db/Driver/DbMysql.class.php (114) Db->initConnect()
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/ThinkPHP/Lib/Think/Db/Driver/DbMysql.class.php (355) DbMysql->_query()
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (9) DbMysql->getFields(SHOW COLUMNS FROM thinkcms_member)
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (9) Model->flush(thinkcms_member)
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (9) Model->_checkTableInfo()
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (3) Model->__construct()
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/Admin/Lib/Action/PublicAction.class.php (33) D()
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (7) PublicAction->checkLogin()
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (7) App->exec(Member)
+[11-09-19 15:15:09] /data/home/bmu028197/htdocs/101/admin.php (18) App->run()
+
+[ 11-09-19 15:16:08 ]
+
+错误信息：[ Admin Public checkLogin ]Unknown MySQL server host 'bdm-014.hichina.com' (2)
+错误页面：/101/101/admin.php/Public/checkLogin
+错误类型：ThinkException
+错误跟踪：
+[11-09-19 15:16:09] /data/home/bmu028197/htdocs/101/ThinkPHP/Lib/Think/Db/Db.class.php (267) DbMysql->connect(Unknown MySQL server host 'bdm-014.hichina.com' (2))
+[11-09-19 15:16:09] /data/home/bmu028197/htdocs/101/ThinkPHP/Lib/Think/Db/Driver/DbMysql.class.php (114) Db->initConnect()
+[11-09-19 15:16:09] /data/home/bmu028197/htdocs/101/ThinkPHP/Lib/Think/Db/Driver/DbMysql.class.php (355) DbMysql->_query()
+[11-09-19 15:16:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (9) DbMysql->getFields(SHOW COLUMNS FROM thinkcms_member)
+[11-09-19 15:16:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (9) Model->flush(thinkcms_member)
+[11-09-19 15:16:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (9) Model->_checkTableInfo()
+[11-09-19 15:16:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (3) Model->__construct()
+[11-09-19 15:16:09] /data/home/bmu028197/htdocs/101/Admin/Lib/Action/PublicAction.class.php (33) D()
+[11-09-19 15:16:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (7) PublicAction->checkLogin()
+[11-09-19 15:16:09] /data/home/bmu028197/htdocs/101/Admin/Temp/~runtime.php (7) App->exec(Member)
+[11-09-19 15:16:09] /data/home/bmu028197/htdocs/101/admin.php (18) App->run()
+

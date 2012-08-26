@@ -1,0 +1,60 @@
+[ 12-05-28 16:52:07 ]
+
+错误信息：[ App Index index ]Access denied for user 'root'@'localhost' (using password: YES)
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/ThinkPHP/Lib/Think/Db/Db.class.php (267) DbMysql->connect()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/ThinkPHP/Lib/Think/Db/Driver/DbMysql.class.php (114) Db->initConnect()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/ThinkPHP/Lib/Think/Db/Driver/DbMysql.class.php (355) DbMysql->_query(SHOW COLUMNS FROM thinkcms_settings)
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) DbMysql->getFields(thinkcms_settings)
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->flush()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->_checkTableInfo()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (3) Model->__construct()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Lib/Action/GlobalAction.class.php (13) D(Settings)
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (8) GlobalAction->_initialize()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (3) Action->__construct()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) A(Index)
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-05-28 16:52:09 ]
+
+错误信息：[ App Index index ]Access denied for user 'root'@'localhost' (using password: YES)
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/ThinkPHP/Lib/Think/Db/Db.class.php (267) DbMysql->connect()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/ThinkPHP/Lib/Think/Db/Driver/DbMysql.class.php (114) Db->initConnect()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/ThinkPHP/Lib/Think/Db/Driver/DbMysql.class.php (355) DbMysql->_query(SHOW COLUMNS FROM thinkcms_settings)
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) DbMysql->getFields(thinkcms_settings)
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->flush()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->_checkTableInfo()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (3) Model->__construct()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Lib/Action/GlobalAction.class.php (13) D(Settings)
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (8) GlobalAction->_initialize()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (3) Action->__construct()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) A(Index)
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-05-28 16:52:14 ]
+
+错误信息：[ App Index index ]Access denied for user 'root'@'localhost' (using password: YES)
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/ThinkPHP/Lib/Think/Db/Db.class.php (267) DbMysql->connect()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/ThinkPHP/Lib/Think/Db/Driver/DbMysql.class.php (114) Db->initConnect()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/ThinkPHP/Lib/Think/Db/Driver/DbMysql.class.php (355) DbMysql->_query(SHOW COLUMNS FROM thinkcms_settings)
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) DbMysql->getFields(thinkcms_settings)
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->flush()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (9) Model->_checkTableInfo()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (3) Model->__construct()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Lib/Action/GlobalAction.class.php (13) D(Settings)
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (8) GlobalAction->_initialize()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (3) Action->__construct()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) A(Index)
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-05-28 16:52:05] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+

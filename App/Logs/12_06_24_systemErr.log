@@ -1,0 +1,20 @@
+[ 12-06-24 11:40:34 ]
+
+错误信息：[ App public ftp ]无法加载模块public
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-24 11:40:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-24 11:40:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-24 18:47:24 ]
+
+错误信息：[ App Public index ]非法操作index
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-24 18:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) Action->__call(index, Array)
+[12-06-24 18:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->index()
+[12-06-24 18:47:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-24 18:47:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+

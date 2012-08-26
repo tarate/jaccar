@@ -1,0 +1,18 @@
+[ 12-06-16 06:43:25 ]
+
+错误信息：[ App http: index ]无法加载模块http:
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-16 06:43:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-16 06:43:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-16 20:35:10 ]
+
+错误信息：[ App public key ]无法加载模块public
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-16 20:35:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-16 20:35:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+

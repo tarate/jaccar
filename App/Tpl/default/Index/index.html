@@ -1,0 +1,89 @@
+<include file="Public:header"/>
+<script type="text/javascript" src="../Public/scripts/ScrollPic.js"></script>
+  						 <!--right s-->
+						 	<div class="right">
+							<!--content s--> 
+								<div class="index_content"> 
+								    <div class="flash_div"><div id="flash_div"><img src="../Public/images/index_flash.jpg" /></div></div>
+									<div class="tipslist" id="tipslist">
+										<div class="tips">
+											<div class="subtitle">Strategy</div>
+											<div class="subcontent">Looking into the future, we recognized the need for new frontiers in growth and business development. We enable our partners to find profitable revenue streams, optimize their operating models and to first, create value...</div>
+											<div class="detailbtn"><a href="__APP__?s=/Public/strategy.html"><img src="../Public/images/index_strategy_btn.jpg" /></a></div>
+										</div>
+										<div class="tips">
+											<div class="subtitle">Key Figures</div>
+											<div class="subcontent"><a href="__APP__?s=/Public/key.html"><img src="../Public/images/index_figures_img.jpg" /></a></div>
+											<div class="detailbtn"><a href="__APP__?s=/Public/key.html"><img src="../Public/images/index_figures_btn.jpg" /></a></div>
+										</div>
+										<volist name="list" id="vo">
+										<div class="tips"  id="other_tips" style="display:none">
+											<div class="subtitle">
+												<span>NEWS</span><span style="margin-left:150px;"><a href="__APP__?s=/Article/rss.html" target="_blank"><img src="../Public/images/rss.gif" style="text-align:center;" align="absmiddle" /></a></span>
+											</div>
+                      <!-- <div class="subcontent_2_1">{$vo.subject|msubstr=0,40}</div> -->
+											<div class="subcontent_2_2">{$vo.message}</div>
+											<div class="detailbtn"><a href="__APP__?s=/Article/press_release_detail/id/{$vo.id}.html"><img src="../Public/images/index_strategy_btn.jpg" /></a></div>
+										</div>
+										</volist>
+										<div class="tips">
+											<div class="subtitle">{$indexObj.subject}</div>
+											<div class="subcontent"><a href="__APP__?s=/Public/director.html"><img src="__ROOT__/Attachments/logo/{$indexObj.attachment}" /></a></div>
+											<div class="detailbtn"><a href="__APP__?s=/Public/director.html"><img src="../Public/images/index_director_btn.jpg" /></a></div>
+                      <!-- comment this
+											<div class="subcontent"><a href="{$indexObj.url}"><img src="__ROOT__/Attachments/logo/{$indexObj.attachment}" /></a></div>
+											<div class="detailbtn"><a href="{$indexObj.url}"><img src="../Public/images/index_director_btn.jpg" /></a></div>
+                      -->
+										</div>
+									</div>
+								</div>
+							<!--content e-->
+								<div class="clearboth"></div>
+							</div>
+							<div class="right_bottom"><img src="../Public/images/right_bottom.jpg" /></div>	
+						 <!--right e-->
+ 	<script>
+		var flashvars = {};
+		var params = {};
+		params.wmode = "transparent";
+		var attributes = {};
+		swfobject.embedSWF("../Public/flash/jaccar_landing_20120409.swf", "flash_div", "860", "580", "9.0.0", false, flashvars, params, attributes);
+	</script> 
+	<script>
+	   	var initlegals="nav_01";
+		jQuery(".subnav li").click(function(){
+			 var obj = jQuery(this);
+			 var id = obj.attr("id");
+			 jQuery("#"+initlegals).hide();
+		     jQuery("#nav"+id).slideDown(100);
+			 jQuery(obj).addClass("selectsubnav");
+			 initlegals=initlegals.replace("nav","");
+			 jQuery("#"+initlegals).removeClass("selectsubnav");
+			 initlegals="nav"+id;
+		});
+		jQuery("#"+initlegals).slideDown(100);
+		 jQuery(".bottom_nav img").mouseover(function(){
+			 jQuery(this).animate({opacity:"0.5"});
+		 });
+		 jQuery(".bottom_nav img").mouseout(function(){
+		 	jQuery(this).animate({opacity:"1"});
+		});
+   </script>
+   
+   <script type="text/javascript">
+   		window.onload=function() {
+   			jQuery("#other_tips").show();
+			var scrollPic1 = new ScrollPic();
+			scrollPic1.scrollContId   = "tipslist"; //内容容器ID		
+			scrollPic1.frameWidth     = 816;//显示框宽度
+			scrollPic1.pageWidth      = 272; //翻页宽度
+			
+			scrollPic1.speed          = 100; //移动速度(单位毫秒，越小越快)
+			scrollPic1.space          = 272; //每次移动像素(单位px，越大越快)
+			scrollPic1.autoPlay       = true; //自动播放
+			scrollPic1.autoPlayTime   = 10; //自动播放间隔时间(秒)
+			
+			scrollPic1.initialize(); //初始化
+   		}
+</script>
+<include file="Public:footer"/> 

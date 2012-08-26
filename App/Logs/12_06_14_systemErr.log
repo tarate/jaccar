@@ -1,0 +1,18 @@
+[ 12-06-14 13:26:45 ]
+
+错误信息：[ App public story ]无法加载模块public
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-14 13:26:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-14 13:26:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-14 16:23:54 ]
+
+错误信息：[ App public ftp ]无法加载模块public
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-14 16:23:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-14 16:23:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+

@@ -1,0 +1,38 @@
+[ 12-06-21 10:39:48 ]
+
+错误信息：[ App Public index ]非法操作index
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-21 10:39:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) Action->__call(index, Array)
+[12-06-21 10:39:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->index()
+[12-06-21 10:39:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-21 10:39:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-21 21:17:04 ]
+
+错误信息：[ App article index ]无法加载模块article
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-21 21:17:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-21 21:17:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-21 21:17:32 ]
+
+错误信息：[ App article jaccarnewsdetail ]无法加载模块article
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-21 21:17:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-21 21:17:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-21 21:17:41 ]
+
+错误信息：[ App article index ]无法加载模块article
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-21 21:17:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-21 21:17:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+

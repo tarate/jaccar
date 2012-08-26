@@ -1,0 +1,22 @@
+[ 12-08-17 15:24:33 ]
+
+错误信息：[ App Article rss.xml ]非法操作rss.xml
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-08-17 15:24:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) Action->__call(rss.xml, Array)
+[12-08-17 15:24:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) ArticleAction->rss.xml()
+[12-08-17 15:24:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-08-17 15:24:08] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-08-17 15:56:19 ]
+
+错误信息：[ App Article rss.xml ]非法操作rss.xml
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-08-17 15:56:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) Action->__call(rss.xml, Array)
+[12-08-17 15:56:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) ArticleAction->rss.xml()
+[12-08-17 15:56:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-08-17 15:56:08] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+

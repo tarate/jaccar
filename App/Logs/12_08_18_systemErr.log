@@ -1,0 +1,88 @@
+[ 12-08-18 06:04:44 ]
+
+错误信息：[ App Article affiliatesnews ]非法操作affiliatesnews
+错误页面：/index.php/Article/affiliatesnews/p/24/
+错误类型：ThinkException
+错误跟踪：
+[12-08-18 06:04:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) Action->__call(affiliatesnews, Array)
+[12-08-18 06:04:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) ArticleAction->affiliatesnews()
+[12-08-18 06:04:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-08-18 06:04:08] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-08-18 06:22:34 ]
+
+错误信息：[ App Article pressreleasedetail ]非法操作pressreleasedetail
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-08-18 06:22:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) Action->__call(pressreleasedetail, Array)
+[12-08-18 06:22:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) ArticleAction->pressreleasedetail()
+[12-08-18 06:22:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-08-18 06:22:08] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-08-18 06:22:34 ]
+
+错误信息：[ App Article newsdetail ]非法操作newsdetail
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-08-18 06:22:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) Action->__call(newsdetail, Array)
+[12-08-18 06:22:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) ArticleAction->newsdetail()
+[12-08-18 06:22:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-08-18 06:22:08] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-08-18 08:16:34 ]
+
+错误信息：[ App Article affiliatesnewsdetail ]非法操作affiliatesnewsdetail
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-08-18 08:16:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) Action->__call(affiliatesnewsdetail, Array)
+[12-08-18 08:16:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) ArticleAction->affiliatesnewsdetail()
+[12-08-18 08:16:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-08-18 08:16:08] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-08-18 08:16:34 ]
+
+错误信息：[ App Article affiliatesnews2 ]非法操作affiliatesnews2
+错误页面：/index.php/Article/affiliatesnews2/cid/161/p/4/
+错误类型：ThinkException
+错误跟踪：
+[12-08-18 08:16:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) Action->__call(affiliatesnews2, Array)
+[12-08-18 08:16:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) ArticleAction->affiliatesnews2()
+[12-08-18 08:16:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-08-18 08:16:08] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-08-18 09:09:15 ]
+
+错误信息：[ App Article affiliatesnewsdetail ]非法操作affiliatesnewsdetail
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-08-18 09:09:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) Action->__call(affiliatesnewsdetail, Array)
+[12-08-18 09:09:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) ArticleAction->affiliatesnewsdetail()
+[12-08-18 09:09:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-08-18 09:09:08] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-08-18 09:09:15 ]
+
+错误信息：[ App Article affiliatesnews2 ]非法操作affiliatesnews2
+错误页面：/index.php/Article/affiliatesnews2/cid/161/p/4/
+错误类型：ThinkException
+错误跟踪：
+[12-08-18 09:09:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) Action->__call(affiliatesnews2, Array)
+[12-08-18 09:09:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) ArticleAction->affiliatesnews2()
+[12-08-18 09:09:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-08-18 09:09:08] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-08-18 22:33:36 ]
+
+错误信息：[ App Public index ]非法操作index
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-08-18 22:33:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) Action->__call(index, Array)
+[12-08-18 22:33:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->index()
+[12-08-18 22:33:08] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-08-18 22:33:08] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+

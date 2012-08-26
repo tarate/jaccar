@@ -1,0 +1,117 @@
+[ 12-06-13 11:24:28 ]
+
+错误信息：[ App Public contactus ]非法操作contactus
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-13 11:24:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) Action->__call(contactus, Array)
+[12-06-13 11:24:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) PublicAction->contactus()
+[12-06-13 11:24:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-13 11:24:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-13 15:49:08 ]
+
+错误信息：[ App jaccar_news_detail Article ]无法加载模块jaccar_news_detail
+错误页面：/index.php/jaccar_news_detail/Article/id/142/
+错误类型：ThinkException
+错误跟踪：
+[12-06-13 15:49:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-13 15:49:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-13 15:49:34 ]
+
+错误信息：[ App jaccar_news_detail Article ]无法加载模块jaccar_news_detail
+错误页面：/index.php/jaccar_news_detail/Article/id/142/
+错误类型：ThinkException
+错误跟踪：
+[12-06-13 15:49:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-13 15:49:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-13 15:50:26 ]
+
+错误信息：[ App jaccar_news_detail Article ]无法加载模块jaccar_news_detail
+错误页面：/index.php/jaccar_news_detail/Article/id/142/
+错误类型：ThinkException
+错误跟踪：
+[12-06-13 15:50:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-13 15:50:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-13 15:51:44 ]
+
+错误信息：[ App jaccar_news_detail Article ]无法加载模块jaccar_news_detail
+错误页面：/index.php/jaccar_news_detail/Article/id/142/
+错误类型：ThinkException
+错误跟踪：
+[12-06-13 15:51:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-13 15:51:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-13 18:12:15 ]
+
+错误信息：[ App jaccar_news_detail Article ]无法加载模块jaccar_news_detail
+错误页面：/index.php/jaccar_news_detail/Article/id/142/
+错误类型：ThinkException
+错误跟踪：
+[12-06-13 18:12:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-13 18:12:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-13 19:55:46 ]
+
+错误信息：[ App Index search ]模板不存在[./App/Tpl/default/Index/search.html]
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-13 19:55:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (10) View->fetch(, , text/html, , 1)
+[12-06-13 19:55:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (8) View->display(, , text/html, )
+[12-06-13 19:55:06] /home/jaccar/public_html/jaccar.net/App/Lib/Action/IndexAction.class.php (14) Action->display()
+[12-06-13 19:55:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) IndexAction->Search()
+[12-06-13 19:55:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-13 19:55:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-13 19:57:57 ]
+
+错误信息：[ App jaccar_news_detail Article ]无法加载模块jaccar_news_detail
+错误页面：/index.php/jaccar_news_detail/Article/id/142/
+错误类型：ThinkException
+错误跟踪：
+[12-06-13 19:57:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-13 19:57:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-13 19:58:18 ]
+
+错误信息：[ App Index search ]模板不存在[./App/Tpl/default/Index/search.html]
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-13 19:58:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (10) View->fetch(, , text/html, , 1)
+[12-06-13 19:58:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (8) View->display(, , text/html, )
+[12-06-13 19:58:06] /home/jaccar/public_html/jaccar.net/App/Lib/Action/IndexAction.class.php (14) Action->display()
+[12-06-13 19:58:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) IndexAction->Search()
+[12-06-13 19:58:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-13 19:58:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-13 19:58:38 ]
+
+错误信息：[ App Index search ]模板不存在[./App/Tpl/default/Index/search.html]
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-13 19:58:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (10) View->fetch(, , text/html, , 1)
+[12-06-13 19:58:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (8) View->display(, , text/html, )
+[12-06-13 19:58:06] /home/jaccar/public_html/jaccar.net/App/Lib/Action/IndexAction.class.php (14) Action->display()
+[12-06-13 19:58:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) IndexAction->Search()
+[12-06-13 19:58:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-13 19:58:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-06-13 20:01:27 ]
+
+错误信息：[ App Index search ]模板不存在[./App/Tpl/default/Index/search.html]
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-06-13 20:01:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (10) View->fetch(, , text/html, , 1)
+[12-06-13 20:01:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (8) View->display(, , text/html, )
+[12-06-13 20:01:06] /home/jaccar/public_html/jaccar.net/App/Lib/Action/IndexAction.class.php (14) Action->display()
+[12-06-13 20:01:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) IndexAction->Search()
+[12-06-13 20:01:06] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-06-13 20:01:06] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+

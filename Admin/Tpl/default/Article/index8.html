@@ -1,0 +1,82 @@
+<tagLib name="html,cx" />
+<include file="Public:header" />
+
+<div class="bodyTitle">
+	<div class="bodyTitleLeft"></div>
+  <div class="bodyTitleText">stories list</div>
+</div>
+<br><h3 class="marginbot"><form method="GET" name="form1" action="__URL__/add8/parentid/<?php echo $_REQUEST['parentid']; ?>">
+  <input type="hidden" name="catelist" id="catelist" value="{$cid}" />
+  <input name="submit" type="submit" class="inputButton"  value="Add Stories"/></form></h3>
+	
+			
+				<table class="fixwidth" style="display:none;">	<form method="POST" name="form1" action="__URL__">
+					<tr>
+						<td>新闻标题:
+						  <input name="keyword" type="text" class="txt" id="keyword" />
+						或用户ID
+					    <input name="uid" type="text" class="txt" id="uid" size="5" />
+					    <input type="submit" value="搜索" class="inputButton" /></td>
+				  </tr>
+				</form></table>
+
+       
+          <table class="datalist fixwidth" > <form name="form1" method="post" action="__URL__/submit">
+            <tr>
+              <th><input name="checkbox" type="checkbox" class="checkbox"  onClick="selAll(this)" value="Select all">
+                  Select</th>
+              <th width="500px">Name</th>
+              <th style="display:none;">Scan</th>
+              <th style="display:none;">CategoryName</th> 
+              <th style="display:none;">User</th>
+              <th>OrderNum</th> 
+              <th>Operation</th>
+            </tr><present name="list">
+            <volist name="list" id="vo">
+            <tr><!-- -->
+              <td class="option" ><input name="id[]" type="checkbox" id="id[]" value="{$vo.id}" class="checkbox">
+                {$vo.id}</td>
+              <td ><strong><if condition="$vo['color'] neq ''"><font color="{$vo.color}">{$vo.subject}</font><else /> {$vo.subject}</if></strong> <neq name="vo['attachthumb']" value=""><img src="../Public/images/img.gif" alt="图片" align="absmiddle" /></neq> 
+              <span style="display:none;"></span><eq name="vo['istop']" value="1"><img src="../Public/images/d.gif" alt="置顶" align="absmiddle" /></eq>  <eq name="vo['isgood']" value="1"><img src="../Public/images/j.gif" alt="推荐" align="absmiddle" /></eq> <eq name="vo['ischecked']" value="0"><font color="#cccccc">未审核</font></eq></td>
+               <td style="display:none;">{$vo.hits}</td><td style="display:none;">{$vo.title}</td></span>
+              
+              <td style="display:none;"><a href="__URL__/index/uid/{$vo.uid}">{$vo.username}</a></td>
+              <td>{$vo.ordernum}</td> 
+              <td> 
+              <a href="__URL__/edit8/id/{$vo.id}/parentid/<?php echo $_REQUEST['parentid']; ?>" ><img src="../Public/images/edit.gif" alt="Update" align="absmiddle" /></a>　
+              　<a href="__URL__/submit/act/delete/id/{$vo.id}" onclick="return confirm('Confirm Submit?');"><img src="../Public/images/del.gif" alt="Delete" align="absmiddle" /></a></td>
+            </tr>
+            </volist>
+           <eq name="allowbat" value="1"> <tr  class="nobg">
+             <td colspan="7" ><font color="#7f7f7f">Operation Type：</font>
+             <div style="display:none;">
+                <input name="act" type="radio"  class="checkbox" value="uischecked"/>
+审核
+<input name="act" type="radio" value="ischecked"  class="checkbox"/>
+取消审核
+<!--input name="act" type="radio" value="top"  class="checkbox"/>
+                置顶
+                 <input name="act" type="radio" value="utop"  class="checkbox"/>
+                取消置顶
+                <input name="act" type="radio" value="good"  class="checkbox"/>
+                推荐
+                <input name="act" type="radio" value="ugood"  class="checkbox"/>
+                取消推荐--></div>
+                <input name="act" type="radio" value="delete" class="checkbox"  checked="checked"/>
+Delete
+              
+<select name="category" id="category" style="display:none">
+ <volist name="cate" id="vo"><option value="{$vo.id}">{$vo.title}</option></volist>
+</select>
+
+              <input name="submit" type="submit" class="inputButton" onclick="return confirm('Confirm Submit?');" value="Submit"/></td>
+            </tr></eq>
+            <tr class="nobg">
+              <td colspan="7" class="tdpage">{$page}</td><!-- -->
+            </tr><else />
+			  <tr><td colspan="7" align="center">Nothing</td>
+			  </tr>
+			</present>
+         </form> </table> 
+
+<include file="Public:footer" />

@@ -1,0 +1,9 @@
+[ 12-07-14 04:32:17 ]
+
+错误信息：[ App public key ]无法加载模块public
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-07-14 04:32:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-07-14 04:32:07] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+

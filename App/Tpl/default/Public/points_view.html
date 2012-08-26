@@ -1,0 +1,41 @@
+<include file="Public:header" />
+						 <!--right s-->
+						 	<div class="right">
+							<!--content s-->
+							    <div class="strategy_title"><img src="../Public/images/points_title.jpg" /></div>
+								<div class="points_view_content">  
+								  <volist name="list" id="vo">
+								  	<!--onecase s-->
+									<div class="pointslist"> 
+											<div class="newsleftcontent">
+												<div class="datetime">{$vo.postdate|date="d/m/Y",###}</div>
+												<div class="title">{$vo.subject}</div>
+												<div class="descript">
+												 {$vo.content}
+												</div>
+												<div class="imglist">
+												<ul>
+													<li><img height="44" width="64" style="cursor:pointer;" src="__ROOT__/Attachments/article/{$vo.attachpath}/{$vo.attachthumb}" onclick="loadimg('__ROOT__/Attachments/article/{$vo.attachpath}/{$vo.attachment}')"/></li> 
+												</ul>
+												<ul class="clearboth"></ul>
+											  </div>
+											</div>
+											<div class="detailor"><a href="#">{$vo.username}</a></div>
+										</div>
+									<!--onecase e-->
+									<div class="clearboth"></div> 
+									  </volist>
+								</div>
+							<!--content e-->
+							<!--pager s-->
+							    <div class="clearboth"></div>
+								<div id="pager">
+									<ul>
+										{$page}
+									</ul>
+								</div>
+							<!--pager e-->   
+							</div>
+							<div class="right_bottom"><img src="../Public/images/right_bottom.jpg" /></div>	
+						 <!--right e-->
+<include file="Public:footer" />

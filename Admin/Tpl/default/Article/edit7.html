@@ -1,0 +1,102 @@
+<tagLib name="html,cx" />
+<include file="Public:header" />
+<style>table tr{height:34px;}</style>
+<div class="bodyTitle"  style="margin-bottom:20px;">
+	<div class="bodyTitleLeft"></div>
+  <div class="bodyTitleText">update points</div>
+</div>
+<br><h3 class="marginbot"></h3>
+		
+        
+          <table width="100%" border="0" cellpadding="3" cellspacing="0"><form method="post" name="form1" action="__URL__/edits7" enctype="multipart/form-data">
+            <tr>
+              <td width="100px;">Title
+               
+                <select name="color" id="color" style="display:none;">
+                <option value="" >默认颜色</option>
+                  <option value="#87CEEB" style="background-color:#87CEEB;color:#87CEEB" <eq name="list['color']" value="#87CEEB">selected="selected"</eq>>#87CEEB</option>
+                  <option value="#4169E1" style="background-color:#4169E1;color:#4169E1" <eq name="list['color']" value="#4169E1">selected="selected"</eq>>#4169E1</option>
+                  <option value="#0000FF" style="background-color:#0000FF;color:#0000FF" <eq name="list['color']" value="#0000FF">selected="selected"</eq>>#0000FF</option>
+                  <option value="#00008B" style="background-color:#00008B;color:#00008B" <eq name="list['color']" value="#00008B">selected="selected"</eq>>#00008B</option>
+                  <option value="#FFA500" style="background-color:#FFA500;color:#FFA500" <eq name="list['color']" value="#FFA500">selected="selected"</eq>>#FFA500</option>
+                  <option value="#FF4500" style="background-color:#FF4500;color:#FF4500" <eq name="list['color']" value="#FF4500">selected="selected"</eq>>#FF4500</option>
+                  <option value="#8B0000" style="background-color:#8B0000;color:#8B0000" <eq name="list['color']" value="#8B0000">selected="selected"</eq>>#8B0000</option>
+                  <option value="#008000" style="background-color:#008000;color:#008000" <eq name="list['color']" value="#008000">selected="selected"</eq>>#008000</option>
+                  <option value="#2E8B57" style="background-color:#2E8B57;color:#2E8B57" <eq name="list['color']" value="#2E8B57">selected="selected"</eq>>#2E8B57</option>
+                  <option value="#FF1493" style="background-color:#FF1493;color:#FF1493"<eq name="list['color']" value="#FF1493">selected="selected"</eq>>#FF1493</option>
+                  <option value="#FF6347" style="background-color:#FF6347;color:#FF6347" <eq name="list['color']" value="#FF6347">selected="selected"</eq>>#FF6347</option>
+                  <option value="#4B0082" style="background-color:#4B0082;color:#4B0082" <eq name="list['color']" value="#4B0082">selected="selected"</eq>>#4B0082</option>
+                  <option value="#A0522D" style="background-color:#A0522D;color:#A0522D" <eq name="list['color']" value="#A0522D">selected="selected"</eq>>#A0522D</option>
+                  <option value="#D2691E" style="background-color:#D2691E;color:#D2691E" <eq name="list['color']" value="#D2691E">selected="selected"</eq>>#D2691E</option>
+              </select></td>
+              <td> <input name="subject" type="text" class="txt" id="subject" value="{$vo.subject}" size="40" /></td>
+            </tr>
+            <tr style="display:none">
+              <td>类别名称
+               <select name="cid"  id="select" style="display:none;">
+<volist name="cate" id="v"><option value="{$v.id}" <eq name="v['id']" value="$vo['cid']">selected="selected"</eq>>{$v.title}</option></volist>
+      </select>             
+                会　　员
+              </td>
+            </tr>
+            <tr style="display:none">
+              <td>
+               地址
+                <textarea name="message" cols="60" rows="3"  id="message">{$vo.message}</textarea></td>
+            </tr> 
+            <tr style="display:none">
+              <td><strong></strong></td>
+            </tr>
+            <tr  style="display:none" >
+              <td>电话
+                <input name="comefrom" type="text" class="txt" id="comefrom" value="{$vo.comefrom}" maxlength="50"  />
+               <span >浏览
+                <input name="link" type="text" class="txt" id="link" value="{$vo.link}" size="50" maxlength="100" /></td>
+            </span>
+            </tr>
+            <tr style="display:none">
+              <td>浏览
+              <input name="hits" type="text" id="hits2" value="{$vo.hits}" size="8" maxlength="12"  />
+            <input name="ischecked" type="radio" id="radio" value="1" checked="checked" class="radio"/>
+              审核
+              <input type="radio" name="ischecked" id="radio2" value="0" class="radio"/>
+              取消审核</td>
+            </tr> 
+            <tr  >
+              <td>Big Picture
+               
+             </td>
+             <td> <input name="attachment" type="file" id="attachment" /></td>
+            </tr> 
+            <tr>
+              <td>Content：</td>
+              <td><html:editor type="fckeditor" id="editor2" width="80%" height="300x" name="content" content="{$vo.content}"  /></td>
+            </tr> 
+           	<tr>
+              <td>Date
+                
+             </td>
+             <td><input name="postdate" type="text" id="postdate" value="{$vo.postdate|date='Y-m-d',###}" />2012-08-09</td>
+            </tr>
+           <tr >
+              <td>Author: 
+             </td>
+             <td> <input name="username" type="text" class="txt" id="username" value="{$vo.username}" size="15" /></td>
+            </tr>
+         
+            <tr>
+              <td><input type="hidden" name="id" value="{$vo.id}" />
+              <input name="catename" type="hidden"  value="<?php echo $_REQUEST['catename']; ?>" />
+                <input name="attachment" type="hidden" id="attachment" value="{$vo.attachment}" />
+              <input name="attachpath" type="hidden" id="attachpath" value="{$vo.attachpath}" />
+              <input name="cid" type="hidden" id="cid" value="{$vo.cid} />
+              <input name="attachthumb" type="hidden" id="attachthumb" value="{$vo.attachthumb}" />              </td>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <input type="submit" name="Submit2" value="Submit" class="inputButton" />
+               <input type="button" name="Reset" value="Back" onclick="javascript:history.go(-1);" class="inputButton" /></td>
+            </tr>
+         </form> </table> 
+        <br>
+<include file="Public:footer" />

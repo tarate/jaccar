@@ -1,0 +1,61 @@
+<include file="Public:header" />
+						 <!--right s-->
+						 	<div class="right">
+							<!--content s-->
+							    <div class="strategy_title"><img src="../Public/images/strategy_title.jpg" /></div>
+								<div class="strategy_content">  
+									<div style="width:451px;">
+										<p style="font-weight:bold; font-size:18px; color:#333;">Our Business Model: A Strategy-Driven Selection of Investments</p>
+										<p style="margin-top:20px;">Looking into the future, we recognized the need for new frontiers in growth and business development. We enable our partners to find profitable revenue streams, optimize their operating models and to first, create value.</p>
+										<p style="margin-top:20px;">We have moved from a selection based on industries and markets to consider the strategic positioning of each activity as a cornerstone of investment and portfolio management. </p>
+										<P style="margin-top:20px;">There is more than one way to create value. So, we have selected the following strategic positioning segments to qualify key success factors for sustained profitability and value creation by building our portfolio with a combination of them.</P>
+									</div>
+									<div class="strategylist">
+										<ul>
+											<li class="lefttexttig"><a href="#">Watch Video</a></li>
+											<li class="rightdownbtn"><a href="__APP__?s=/Public/strategy_vedio.html"><img src="../Public/images/strategy_img_01.jpg"/></a></li>
+										</ul>
+										<div class="clearboth"></div>
+										<ul>
+											<li class="lefttexttig"><a href="../Public/flash/Jaccar JDC5_web.flv">Download Video</a></li>
+											<li class="rightdownbtn"><a href="../Public/flash/Jaccar JDC5_web.flv"><img src="../Public/images/strategy_img_02.jpg"/></a></li>
+										</ul>
+										<div class="clearboth"></div>
+										<ul>
+											<li class="lefttexttig"><a href="../Public/flash/Strategy.pdf" target="_blank">Download PDF version</a></li>
+											<li class="rightdownbtn"><a href="../Public/flash/Strategy.pdf" target="_blank""><img src="../Public/images/strategy_img_03.jpg"/></a></li>
+										</ul>
+									</div>
+									<div class="clearboth"></div>
+								</div>
+							<!--content e-->
+							</div>
+							<div class="right_bottom"><img src="../Public/images/right_bottom.jpg" /></div>	
+						 <!--right e-->
+					 
+  <script>
+   var oldshow = null;
+  	$("#segmentlist a").each(function(){
+	 $(this).click(function(e){
+	   if(oldshow != null)
+	     oldshow.hide(); 
+	   var x = e.originalEvent.layerX || e.originalEvent.x || 0 ; 
+	   var y = e.originalEvent.layerY || e.originalEvent.y || 0; 
+	   var id=$(this).attr("id");
+	   $("#"+id).css("left",x+"px").css("top",y+"px").show("slow");
+	   oldshow = $("#"+id);
+	 });
+	});
+	
+	var closesegment = function(obj){
+	 $(obj).parent().hide();
+	}
+  </script>
+   <script src="scripts/menu.js"></script>
+    <!--[if IE 6]>  
+		 <script type="text/javascript" src="scripts/png.js"></script> 
+		 <script> 
+		  DD_belatedPNG.fix('.secondmenu'); 
+		</script>
+	<![endif]-->
+ <include file="Public:footer" />

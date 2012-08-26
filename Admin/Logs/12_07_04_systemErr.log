@@ -1,0 +1,11 @@
+[ 12-07-04 15:20:11 ]
+
+错误信息：[ Admin Public history.back(-1); ]非法操作history.back(-1);
+错误页面：/admin.php/Public/history.back(-1);
+错误类型：ThinkException
+错误跟踪：
+[12-07-04 15:20:07] /home/jaccar/public_html/jaccar.net/Admin/Temp/~runtime.php (7) Action->__call(history.back(-1);, Array)
+[12-07-04 15:20:07] /home/jaccar/public_html/jaccar.net/Admin/Temp/~runtime.php (7) PublicAction->history.back(-1);()
+[12-07-04 15:20:07] /home/jaccar/public_html/jaccar.net/Admin/Temp/~runtime.php (7) App->exec()
+[12-07-04 15:20:07] /home/jaccar/public_html/jaccar.net/admin.php (18) App->run()
+

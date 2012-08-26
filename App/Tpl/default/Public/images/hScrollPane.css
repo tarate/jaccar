@@ -1,0 +1,44 @@
+﻿ 
+
+.hScrollPane_dragbar{
+	position:absolute;
+	left:58px;
+	bottom:0px;
+	height:20px;
+	margin:0 auto;
+	background:url(../images/scroll_bg.jpg) repeat-x;
+}
+.hScrollPane_draghandle{
+	height:20px;
+	width:55px; 
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	left:9px;
+	cursor:default;  
+	background:url(../images/story_scroll.jpg) no-repeat;
+}
+.hScrollPane_rightarrow{
+	display:inline-block; 
+	width:9px;
+	overflow:hidden;
+	position:absolute;
+	background:url(../images/scroll_right.jpg) no-repeat;
+	height:20px;
+	right:0px;
+	bottom:0;
+}
+
+.hScrollPane_leftarrow{
+	display:inline-block; 
+	width:9px;
+	left:49px;
+	overflow:hidden;
+	position:absolute;
+	background:url(../images/scroll_left.jpg) no-repeat;
+	height:20px;
+	bottom:0;
+} 
+
+.draghandlealter{ 
+}

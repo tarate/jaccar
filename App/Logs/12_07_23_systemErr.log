@@ -1,0 +1,27 @@
+[ 12-07-23 06:48:05 ]
+
+错误信息：[ App public key ]无法加载模块public
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-07-23 06:48:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-07-23 06:48:07] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-07-23 11:20:58 ]
+
+错误信息：[ App .. .. ]无法加载模块..
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-07-23 11:20:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-07-23 11:20:07] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
+[ 12-07-23 13:53:47 ]
+
+错误信息：[ App .. .. ]无法加载模块..
+错误页面：/index.php
+错误类型：ThinkException
+错误跟踪：
+[12-07-23 13:53:07] /home/jaccar/public_html/jaccar.net/App/Temp/~runtime.php (7) App->exec()
+[12-07-23 13:53:07] /home/jaccar/public_html/jaccar.net/index.php (18) App->run()
+
