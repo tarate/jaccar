@@ -54,6 +54,7 @@
  .director_content #people_6_detail{ left:184px; top:174px;}
  .director_content #people_7_detail{ left:234px; top:104px;}
  .director_content #people_8_detail{ left:289px; top:129px;}
+ .director_content #people_9_detail{ left:244px; top:285px;}
  .director_content .people_1{ position:absolute;z-index:111px; left:99px; top:59px;}
  .director_content .people_2{ position:absolute;z-index:111px; left:154px; top:164px;}
  .director_content .people_3{ position:absolute;z-index:111px; left:259px; top:114px;}
@@ -62,6 +63,7 @@
  .director_content .people_6{ position:absolute;z-index:111px; left:409px; top:174px;}
  .director_content .people_7{ position:absolute;z-index:111px; left:459px; top:279px;}
  .director_content .people_8{ position:absolute;z-index:111px; left:514px; top:129px;}
+ .director_content .people_9{ position:absolute;z-index:111px; left:154px; top:350px;}
  
  /**version_content**/
  .version_content{ font-size:12px; background:none; margin:11px 0px 0px 141px;border-top:1px #ececec solid;  padding:8px 20px 8px 10px;border-top:1px #ececec solid; width:668px;border-bottom:1px #ececec solid; width:668px; float:left; display:inline;}
